@@ -1,0 +1,1 @@
+console.log("National Koli News loaded");

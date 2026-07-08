@@ -1,2 +1,1 @@
-# national-koli-news
-National Koli News Portal
+# National Koli News
