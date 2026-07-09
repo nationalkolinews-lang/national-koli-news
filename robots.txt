@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://nationalkolinews-lang.github.io/national-koli-news/sitemap.xml
